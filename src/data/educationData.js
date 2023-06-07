@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'KTH Royal Institute of Technology, Stockholm, Sweden',
+        course: 'Masters in Software Engineering of Distributed Systems',
+        startYear: '2020',
+        endYear: '2022'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Technical University of Munich, Munich, Germany',
+        course: 'Erasmus Exchange in Informatics',
+        startYear: '2021',
+        endYear: '2022'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'National Institute of Technology Warangal, India',
+        course: 'Bachelor\'s of Technology in Electrical and Electronics Engineering',
+        startYear: '2013',
+        endYear: '2017'
     },
 ]
